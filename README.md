@@ -1,4 +1,4 @@
-Unhealthy Machines Breakdown Dashboard*  
+Unhealthy Machines Breakdown Dashboard
 
 ## *Project Overview*  
 This Tableau dashboard analyzes the breakdown of unhealthy machines across different production sites. The visualization provides insights into machine failures, helping to identify trends and areas that require maintenance improvements.  
